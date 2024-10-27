@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745395497737",
+    "project_id": "chat-clone-dabbd",
+    "storage_bucket": "chat-clone-dabbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745395497737:android:f20486d3920ccdd85c41d8",
+        "android_client_info": {
+          "package_name": "com.mastercoding.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_fiBAAsZFbbNiND46RY2feKpQHylctQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
